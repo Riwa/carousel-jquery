@@ -1,0 +1,11 @@
+#carouselJs {
+  list-style: none;
+}
+
+#carouselJs li {
+  display: none;
+}
+
+.active {
+  display: block!important;
+}
